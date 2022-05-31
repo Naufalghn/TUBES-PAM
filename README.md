@@ -7,6 +7,7 @@ Nama anggota kelompok:
 
 Aplikasi yang dibuat adalah Wibustation, aplikasi ini berisi store yang menjual merchandise anime. Aplikasi ini dibuat menggunakan library,
 React bootstrap untuk navbar, Sweetalert untuk notifikasi pada aplikasi dan axios untuk menghubungkan ke database (frontend-backend) menggunakan json server.
+File android pada aplikasi ini missing sehingga tidak dapat di konversi ke apk tetapi tetap berjalan di versi web
 
 
 ![WhatsApp Image 2022-05-31 at 10 33 46 AM](https://user-images.githubusercontent.com/90816318/171088393-eaa29760-c78b-4c6e-a9bb-6199fc9bcf67.jpeg)
