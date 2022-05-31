@@ -1,0 +1,307 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "kode": "w1",
+      "nama": "Jacket Cosplay amiya",
+      "ukuran": "M,L,Xl,XXl",
+      "bahan": "Baby Canvas Premium ",
+      "harga": 350000,
+      "is_ready": true,
+      "gambar": "amiya.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "w2",
+      "nama": "Jacket Cosplay Texas",
+      "ukuran": "M,Xl,XXl",
+      "bahan": "polyster[waterproof]",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "texas.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "w3",
+      "nama": "Jacket cosplay skadi",
+      "ukuran": "L,Xl,XXl",
+      "bahan": "Fleece",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "skadi.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "w4",
+      "nama": "baju cosplay aharen",
+      "ukuran": "M,L,Xl",
+      "bahan": " Katun",
+      "harga": 180000,
+      "is_ready": true,
+      "gambar": "aharen.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "w5",
+      "nama": "sweater Sakamata Chloe",
+      "ukuran": "L,Xl,XXl",
+      "bahan": "Katun",
+      "harga": 400000,
+      "is_ready": true,
+      "gambar": "chloe.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "w6",
+      "nama": "baju cosplay kuroneko",
+      "ukuran": "L,Xl",
+      "bahan": "Velvet",
+      "harga": 357000,
+      "is_ready": true,
+      "gambar": "kuro.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "w7",
+      "nama": "Baju Cosplay Rapthalia",
+      "ukuran": "M,Xl,XXl",
+      "bahan": "polyster+velvet",
+      "harga": 340000,
+      "is_ready": true,
+      "gambar": "rapthalia.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "w8",
+      "nama": "Baju Cosplay Naofumi",
+      "ukuran": "L,Xl,XXl",
+      "bahan": "polyster+velvet",
+      "harga": 390000,
+      "is_ready": true,
+      "gambar": "naofumi.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Perlengkapan Cosplay"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "w9",
+      "nama": "Action Figure Amiya",
+      "ukuran": "22cm",
+      "bahan": "pvc",
+      "harga": 520000,
+      "is_ready": true,
+      "gambar": "aa.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Action Figure"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "w10",
+      "nama": "Action Figure Texas",
+      "ukuran": "22cm",
+      "bahan": "pvc",
+      "harga": 523000,
+      "is_ready": true,
+      "gambar": "at.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Action Figure"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "w11",
+      "nama": "Action Figure Skadi",
+      "ukuran": "19cm",
+      "bahan": "pvc",
+      "harga": 600000,
+      "is_ready": true,
+      "gambar": "as.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Action Figure"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "w12",
+      "nama": "Action Figure Chen",
+      "ukuran": "21cm",
+      "bahan": "pvc",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "cn.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Action Figure"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "w13",
+      "nama": "Gantungan Kunci texas",
+      "ukuran": "5x4cm",
+      "bahan": "Acrylic",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "gt.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Aksesoris"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "w14",
+      "nama": "gantungan Kunci amiya",
+      "ukuran": "5x4cm",
+      "bahan": "Acrylic",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "ga.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Aksesoris"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "w15",
+      "nama": "Gantungan Kunci Kanna",
+      "ukuran": "5x4cm",
+      "bahan": "Acrylic",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "gk.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Aksesoris"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "w16",
+      "nama": "Gantungan Kunci Miku",
+      "ukuran": "5x4cm",
+      "bahan": "Acrylic",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "gm.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Aksesoris"
+      }
+    }
+  ],
+  "keranjang": [
+    {
+      "jumlah": 2,
+      "product": {
+        "id": 9,
+        "kode": "w9",
+        "nama": "Action Figure Amiya",
+        "ukuran": "22cm",
+        "bahan": "pvc",
+        "harga": 520000,
+        "is_ready": true,
+        "gambar": "aa.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Action Figure"
+        }
+      },
+      "total_harga": 1040000,
+      "id": 1
+    },
+    {
+      "jumlah": 1,
+      "product": {
+        "id": 1,
+        "kode": "w1",
+        "nama": "Jacket Cosplay amiya",
+        "ukuran": "M,L,Xl,XXl",
+        "bahan": "Baby Canvas Premium ",
+        "harga": 350000,
+        "is_ready": true,
+        "gambar": "amiya.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Perlengkapan Cosplay"
+        }
+      },
+      "total_harga": 350000,
+      "id": 2
+    },
+    {
+      "jumlah": 1,
+      "product": {
+        "id": 13,
+        "kode": "w13",
+        "nama": "Gantungan Kunci texas",
+        "ukuran": "5x4cm",
+        "bahan": "Acrylic",
+        "harga": 15000,
+        "is_ready": true,
+        "gambar": "gt.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Aksesoris"
+        }
+      },
+      "total_harga": 15000,
+      "id": 3
+    },
+    {
+      "jumlah": 1,
+      "product": {
+        "id": 2,
+        "kode": "w2",
+        "nama": "Jacket Cosplay Texas",
+        "ukuran": "M,Xl,XXl",
+        "bahan": "polyster[waterproof]",
+        "harga": 250000,
+        "is_ready": true,
+        "gambar": "texas.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Perlengkapan Cosplay"
+        }
+      },
+      "total_harga": 250000,
+      "id": 4
+    }
+  ],
+  "pesanan": []
+}
