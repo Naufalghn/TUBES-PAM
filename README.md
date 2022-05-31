@@ -11,3 +11,5 @@ React bootstrap untuk navbar, Sweetalert untuk notifikasi pada aplikasi dan axio
 
 ![WhatsApp Image 2022-05-31 at 10 33 46 AM](https://user-images.githubusercontent.com/90816318/171088393-eaa29760-c78b-4c6e-a9bb-6199fc9bcf67.jpeg)
 ![WhatsApp Image 2022-05-31 at 10 37 58 AM](https://user-images.githubusercontent.com/90816318/171088417-89fe3ac8-836d-4d26-95cb-86aece51b441.jpeg)
+
+Pada gambar diatas pengguna dapat menambahkan item ke keranjang.
